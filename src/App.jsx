@@ -1,6 +1,6 @@
 import React from 'react';
 // import Header from './components/Header.jsx';
-import Footer from './components/Footer.jsx';
+// import Footer from './components/Footer.jsx';
 import DestinationCard from './components/DestinationCard';
 import './App.css';
 
@@ -25,7 +25,7 @@ const App = () => {
           </div>
         </div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
