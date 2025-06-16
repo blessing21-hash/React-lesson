@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './components/Header.jsx';
+// import Header from './components/Header.jsx';
 import Footer from './components/Footer.jsx';
 import DestinationCard from './components/DestinationCard';
 import './App.css';
@@ -7,7 +7,7 @@ import './App.css';
 const App = () => {
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
       <div className="destination-container">
         <div className="destination-section">
           <DestinationCard name="Paris" image="image1.png" />
