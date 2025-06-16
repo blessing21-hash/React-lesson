@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
 import DestinationCard from './components/DestinationCard';
 import './App.css';
 
